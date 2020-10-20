@@ -19,10 +19,10 @@ An example of before smoothening and after smoothening is given below :  <br />
 Before smoothening : <br />
 
 
-![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/88.jpg)  <br />
-![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/92.jpg)  <br />
+![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/images/88.jpg)  <br />
+![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/images/92.jpg)  <br />
 
 After smoothening : <br />
 
-![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/89.jpg)  <br />
-![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/93.jpg)  <br />
+![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/images/89.jpg)  <br />
+![alt text](https://github.com/yuvrajdalia/gestop/blob/master/virtualboard/images/93.jpg)  <br />
