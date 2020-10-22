@@ -150,6 +150,10 @@ def main():
         #save the drawn figure to an image
         if cv2.waitKey(33) == ord('x'):
             cv2.imwrite(str(saved_pic_num)+'.jpg', blank_image)
+            df=pd.DataFrame()
+            df['x-coordinates']=x_coordinates
+            df['y-coordinates']=y_coordinates
+            df.to_csv('shape'+str(saved_pic_num)+'.csv')
             saved_pic_num=saved_pic_num+1
         
         
